@@ -1,0 +1,16 @@
+partner_member_id,first_name,last_name,date_of_birth,email,policy_start,policy_end
+9277d5d0-d876-47db-b271-8bc4cc897e8f,Alice,Nguyen,1985-03-14,alice.nguyen@example.com,2026-01-01,2026-12-31
+edfcb9c4-7537-40ec-83d3-08c915d6c01f,Ben,Okafor,1992-07-22,ben.okafor@example.com,2026-02-01,2027-01-31
+c1cb7fac-1ca8-4f11-978b-7d40a02a8ab8,Carla,Mendes,1978-11-05,carla.mendes@example.com,2025-06-01,
+161ffce5-4fd4-41c4-a5b1-b06963f124fb,"Dmitri ""Dima""",O'Brien,2001-01-30,dima.obrien@example.co.uk,2026-03-15,2027-03-14
+51f23508-2d94-4436-8469-65c220a6a845,Ella,Fitzgerald-Smith,1969-09-09,ella.fs@example.com,2026-01-01,2026-12-31
+,Frank,Hale,1988-04-18,frank.hale@example.com,2026-01-01,2026-12-31
+59ad75a2-9e7d-48d6-bc50-b1b919c8c189,Grace,Lim,1990-02-30,grace.lim@example.com,2026-01-01,2026-12-31
+964554ed-4693-42a8-be77-d4c0c9b820c1,Hiro,Tanaka,1975-08-12,hiro.tanaka@example,2026-01-01,2026-12-31
+9a4ae413-1f64-4e52-aa0f-48b83f2eef21,Isla,Brown,1983-12-01,isla.brown@example.com,2026-12-31,2026-01-01
+edfcb9c4-7537-40ec-83d3-08c915d6c01f,Jack,Reed,1995-05-05,jack.reed@example.com,2026-01-01,2026-12-31
+34697c42-e3f7-451c-a124-f9bccd78f295,Kara,Singh,2030-06-15,kara.singh@example.com,2026-01-01,2026-12-31
+2cac9dec-7752-46aa-aee9-9b4fe5077729,Leo,,1987-10-10,leo@example.com,2026-01-01,2026-12-31
+98d17ac0-323e-45b7-860f-71e5b43210a2,Maya,Patel,14/03/1991,maya.patel@example.com,2026-01-01,2026-12-31
+b1a460fe-9df4-41e5-9a5a-5a32733f5119,Noah,Kim,1993-04-04,noah.kim@example.com,2026-01-01
+928c0298-8fc6-44ab-8003-5665e9e9f2fd,Olivia,Chen,1980-01-01,olivia.chen@example.com,2026-01-01,2026-12-31,EXTRA

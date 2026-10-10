@@ -1,0 +1,152 @@
+[
+  {
+    "line": 7,
+    "values": [
+      "",
+      "Frank",
+      "Hale",
+      "1988-04-18",
+      "frank.hale@example.com",
+      "2026-01-01",
+      "2026-12-31"
+    ],
+    "reasons": [
+      "partner_member_id: is required"
+    ]
+  },
+  {
+    "line": 8,
+    "values": [
+      "PM-10007",
+      "Grace",
+      "Lim",
+      "1990-02-30",
+      "grace.lim@example.com",
+      "2026-01-01",
+      "2026-12-31"
+    ],
+    "reasons": [
+      "date_of_birth: must be a valid date in YYYY-MM-DD format"
+    ]
+  },
+  {
+    "line": 9,
+    "values": [
+      "PM-10008",
+      "Hiro",
+      "Tanaka",
+      "1975-08-12",
+      "hiro.tanaka@example",
+      "2026-01-01",
+      "2026-12-31"
+    ],
+    "reasons": [
+      "email: must be a valid email address"
+    ]
+  },
+  {
+    "line": 10,
+    "values": [
+      "PM-10009",
+      "Isla",
+      "Brown",
+      "1983-12-01",
+      "isla.brown@example.com",
+      "2026-12-31",
+      "2026-01-01"
+    ],
+    "reasons": [
+      "policy_end: must not be before policy_start"
+    ]
+  },
+  {
+    "line": 11,
+    "values": [
+      "PM-10002",
+      "Jack",
+      "Reed",
+      "1995-05-05",
+      "jack.reed@example.com",
+      "2026-01-01",
+      "2026-12-31"
+    ],
+    "reasons": [
+      "partner_member_id: duplicate of line 3"
+    ]
+  },
+  {
+    "line": 12,
+    "values": [
+      "PM-10011",
+      "Kara",
+      "Singh",
+      "2030-06-15",
+      "kara.singh@example.com",
+      "2026-01-01",
+      "2026-12-31"
+    ],
+    "reasons": [
+      "date_of_birth: must not be in the future"
+    ]
+  },
+  {
+    "line": 13,
+    "values": [
+      "PM-10012",
+      "Leo",
+      "",
+      "1987-10-10",
+      "leo@example.com",
+      "2026-01-01",
+      "2026-12-31"
+    ],
+    "reasons": [
+      "last_name: is required"
+    ]
+  },
+  {
+    "line": 14,
+    "values": [
+      "PM-10013",
+      "Maya",
+      "Patel",
+      "14/03/1991",
+      "maya.patel@example.com",
+      "2026-01-01",
+      "2026-12-31"
+    ],
+    "reasons": [
+      "date_of_birth: must be a valid date in YYYY-MM-DD format"
+    ]
+  },
+  {
+    "line": 15,
+    "values": [
+      "PM-10014",
+      "Noah",
+      "Kim",
+      "1993-04-04",
+      "noah.kim@example.com",
+      "2026-01-01"
+    ],
+    "reasons": [
+      "expected 7 columns, found 6"
+    ]
+  },
+  {
+    "line": 16,
+    "values": [
+      "PM-10015",
+      "Olivia",
+      "Chen",
+      "1980-01-01",
+      "olivia.chen@example.com",
+      "2026-01-01",
+      "2026-12-31",
+      "EXTRA"
+    ],
+    "reasons": [
+      "expected 7 columns, found 8"
+    ]
+  }
+]
